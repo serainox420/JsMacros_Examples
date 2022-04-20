@@ -1,10 +1,37 @@
-# *JSForDummies2 - .js Examples for JS Macros
-"JSForDummies2" - JavaScript Macro pack for "JS Macros" and "Meteor Client" 
-["Out of the box" examples]
+# JSForDummies2
+[![License](https://img.shields.io/badge/License-GPL%203.0-blue?style=for-the-badge)](github.com/serainox420/-JSForDummies2---Example-macros-for-JSM-/LICENSE)
+[![Github](https://img.shields.io/badge/GitHub-JSForDummies2-red?style=for-the-badge)](github.com/serainox420/-JSForDummies2---Example-macros-for-JSM-)
+[![Discord](https://img.shields.io/discord/966251626698526730?style=for-the-badge)](https://discord.gg/4NQ3SPXsKJ)
 
-Very chaotic but plentyfull library of super simple methods and classes for dummies.
+JsForDummies is a large library of example Macros for Minecraft, powered by the amazing [JsMacros](curseforge.com/minecraft/mc-mods/jsmacros) mod from [WagYourTail](github.com/wagyourtail).
+
+*JSForDummies2 - .js Examples for JS Macros
+"JSForDummies2" - JavaScript Macro pack for "JS Macros" and "Meteor Client" 
+"Out of the box" examples
+
+Chaotic but plentiful library of super simple methods and classes, designed for dummies to get an entrance into Macro creation. 
+
 Everything from HUDs, Vanilla Mappings, to remote control, various events, methods & classes. - Everything JavaScript dummies might need.
 
 Un-Refined version, straight out of my folder.
-More-less usage & class macro library. [Treat it as DIY]
+More-less usage & class macro library. 
+
+*Disclaimer: This is a DIY project, it is not in a finished state and nothing here is guaranteed to fully work all the time, or be readable, or usable for what the name seems to indicate it can do. Everything here is meant to contribute to the community.*
+
+## Dependencies
+- **Meteor Client**
+  - [Discord](https://discord.gg/bBGQZvd)
+  - [Website](https://meteorclient.com)
+- [JsMacros](curseforge.com/minecraft/mc-mods/jsmacros)
+
+## Credit
+Macros written with assistance from the wonderful community in WagYourTail's JsMacros [discord server](discord.gg/P6W58J8), including but not limited to:
+- [Etheradon](github.com/Etheradon)
+- [Zlare](github.com/FlareStormGaming)
+- [WagYourTail](github.com/wagyourtail)
+
+Credit to [Serainox](github.com/serainox420) (Silverainox#9452 on [Discord](discord.com)) for majority of the code and documentation. 
+
+## License
+JSForDummies2 is licensed under GPL version 3.0. For more information, see the [License](github.com/serainox420/https://github.com/serainox420/-JSForDummies2---Example-macros-for-JSM-/LICENSE). 
 
